@@ -4,7 +4,7 @@
 
 </div>
 
-<h2 align="center">Technology Stack <img src="https://github.com/TheFarNickel/TheFarNickel/blob/main/images/tech.gif" width="50"></h2>
+<h2 align="center">🛠️ Technology Stack 🛠️
 
 <p align="center">
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
@@ -43,7 +43,7 @@
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
