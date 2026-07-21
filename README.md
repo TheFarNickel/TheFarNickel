@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-
+</p>
 
 <div align="center">
 
@@ -29,7 +29,7 @@
 
 </div>
 
----
+
 
 ## About Me
 
