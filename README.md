@@ -93,7 +93,7 @@
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/TheFarNickel/TheFarNickel/output/github-contribution-grid-snake.gif" alt="contribution snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/TheFarNickel/Juz_FarN/output/github-contribution-grid-snake.gif" alt="contribution snake" width="100%"/>
 
 ---
 
