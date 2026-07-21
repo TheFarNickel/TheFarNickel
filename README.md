@@ -112,10 +112,10 @@
  <img src="https://img.shields.io/badge/-FarN-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victoryhien35@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/farn-nickel-8184aa423/">
- <img src="https://img.shields.io/badge/-farN-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/farn-nickel-8184aa423/"/>
+ <img src="https://img.shields.io/badge/-FarN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farn-nickel-8184aa423/"/>
 </a>
  <a href="https://x.com/nothing1022here">
- <img src="https://img.shields.io/badge/-FarN-black?style=flat-square&logo=X&logoColor=white&link=[https://twitter.com/ritikhere307](https://x.com/nothing1022here)"/>
+ <img src="https://img.shields.io/badge/-nothing1022here-black?style=flat-square&logo=X&logoColor=white&link=https://x.com/nothing1022here"/>
 </a>
 </p>
 
