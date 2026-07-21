@@ -115,7 +115,7 @@
  <img src="https://img.shields.io/badge/-farN-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/farn-nickel-8184aa423/"/>
 </a>
  <a href="https://x.com/nothing1022here">
- <img src="https://img.shields.io/badge/-FarN-blue?style=flat-square&logo=X&logoColor=white&link=[https://twitter.com/ritikhere307](https://x.com/nothing1022here)"/>
+ <img src="https://img.shields.io/badge/-FarN-white?style=flat-square&logo=X&logoColor=white&link=[https://twitter.com/ritikhere307](https://x.com/nothing1022here)"/>
 </a>
 </p>
 
