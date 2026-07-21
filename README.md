@@ -81,7 +81,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 
@@ -95,7 +95,7 @@
 
 ---
 
-## Contact
+## <h2>Contact <img src="Calling.gif" width="50"><h2>
 
 <p align="center">
 
