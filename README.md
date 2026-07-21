@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img src="https://github.com/TheFarNickel/TheFarNickel/blob/main/images/VN-flag.gif" width="100" height="50" >
+<img src="https://github.com/TheFarNickel/TheFarNickel/blob/main/images/Flag_of_Vietnam-Animated.gif" width="100" height="50" >
 
 <br/><br/>
 
