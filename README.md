@@ -16,9 +16,8 @@
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
-</div>
-<br/>
 
+<p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
 
 <br/><br/>
@@ -26,7 +25,7 @@
 🇻🇳 **Crafted with pride in Vietnam** 🇻🇳
 
 </div>
-
+</p>
 ---
 
 ## About Me
