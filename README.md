@@ -95,7 +95,7 @@
 
 ---
 
-## Contact <img src="https://github.com/TheFarNickel/TheFarNickel/blob/main/images/Calling.gif" width="50">
+## Contact <img src="https://github.com/TheFarNickel/TheFarNickel/blob/main/images/click.gif" width="50">
 
 <p align="center">
 
