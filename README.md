@@ -49,12 +49,9 @@
 
 <div align="center">
 
-**Languages**
+**Main Languages**
 
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 
 **Tools & Infrastructure**
 
