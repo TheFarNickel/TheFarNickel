@@ -95,7 +95,7 @@
 
 <div align="center">
 
-<picture>
+</picture>
   <source media="(prefers-color-scheme: dark)" srcset="...snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="...snake.svg"/>
   <img alt="contribution snake" src="...ocean.gif" width="100%"/>
