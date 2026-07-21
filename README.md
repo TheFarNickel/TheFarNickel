@@ -21,9 +21,9 @@
 
 ---
 
-## 🤖 About Me
+## About Me
 
-```yaml
+
 name:       "TheFarNickel"
 location:   "Vietnam 🇻🇳"
 role:       "Automation & Bot Developer"
@@ -32,8 +32,6 @@ focus:
   - Zalo Bots        
   - Automatic Cracking Bot
 
-
-```
 
 ---
 
@@ -65,17 +63,13 @@ focus:
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/TheFarNickel/TheFarNickel"/> 
+ <img src="https://badges.pufler.dev/repos/TheFarNickel"/>
+ <img src="https://badges.pufler.dev/commits/monthly/TheFarNickel" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TheFarNickel&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=DA251D&icon_color=FFCD00&text_color=ffffff&rank_icon=github"/>
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFarNickel&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=DA251D&text_color=ffffff"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TheFarNickel&theme=radical&hide_border=true&background=0d1117&ring=DA251D&fire=FFCD00&currStreakLabel=FFCD00&sideLabels=ffffff&dates=aaaaaa" height="160"/>
-
-</div>
+</p>
 
 ---
 
@@ -106,15 +100,15 @@ focus:
 ## 📬 Contact
 
 <p align="center">
-<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
-<a href="mailto: ritikpr307@gmail.com">
- <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
+
+<a href="mailto: victoryhien35@gmail.com">
+ <img src="https://img.shields.io/badge/-FarN-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victoryhien35@gmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
- <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
+<a href="https://www.linkedin.com/in/farn-nickel-8184aa423/">
+ <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farn-nickel-8184aa423/"/>
 </a>
- <a href="https://twitter.com/ritikhere307">
- <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
+ <a href="https://x.com/nothing1022here">
+ <img src="https://img.shields.io/badge/-FarN-blue?style=flat-square&logo=twitter&logoColor=white&link=[https://twitter.com/ritikhere307](https://x.com/nothing1022here)"/>
 </a>
 </p>
 
