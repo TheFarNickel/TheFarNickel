@@ -4,7 +4,7 @@
 
 </div>
 
-<h2 align="center">Technology Stack <img src=" " width="50"></h2>
+<h2 align="center">Technology Stack <img src="https://github.com/TheFarNickel/TheFarNickel/blob/main/images/tech.gif" width="50"></h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
@@ -19,11 +19,11 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
+<img src="https://github.com/TheFarNickel/TheFarNickel/blob/main/images/VN-flag.gif" width="100" height="50" >
 
 <br/><br/>
 
-🇻🇳 **Crafted with pride in Vietnam** 🇻🇳
+🇻🇳 **From Vietnam** 🇻🇳
 
 </div>
 
