@@ -4,18 +4,25 @@
 
 </div>
 
-<div align="center">
+<h2 align="center">Technology Stack <img src=" " width="50"></h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FFCD00&center=true&vCenter=true&width=640&lines=Hey+there+%F0%9F%91%8B+I'm+The+FarNickel;Automation+%26+Bot+Developer+%F0%9F%A4%96;Discord+%7C+Zalo+%7C+Manga+Translator+%7C+Auto+Cracking+System;Turning+repetitive+work+into+smart+code+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
-
-<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+</p>
 
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
 
 <br/><br/>
 
-🇻🇳 **Crafted with pride in Vietnam** 🇻🇳
+🇻🇳 **From VietNam** 🇻🇳
 
 </div>
 
@@ -24,13 +31,13 @@
 ## About Me
 
 
-name:       "TheFarNickel"
-location:   "Vietnam 🇻🇳"
-role:       "Automation & Bot Developer"
-focus:
-  - Discord Bots     
-  - Zalo Bots        
-  - Automatic Cracking Bot
+- name:       "TheFarNickel"
+- location:   "Vietnam 🇻🇳"
+- role:       "Automation & Bot Developer"
+- focus:
+    - Discord Bots     
+    - Zalo Bots        
+    - Automatic Cracking Bot
 
 
 ---
@@ -97,7 +104,7 @@ focus:
 
 ---
 
-## 📬 Contact
+## Contact
 
 <p align="center">
 
@@ -105,7 +112,7 @@ focus:
  <img src="https://img.shields.io/badge/-FarN-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victoryhien35@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/farn-nickel-8184aa423/">
- <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farn-nickel-8184aa423/"/>
+ <img src="https://img.shields.io/badge/-farN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farn-nickel-8184aa423/"/>
 </a>
  <a href="https://x.com/nothing1022here">
  <img src="https://img.shields.io/badge/-FarN-blue?style=flat-square&logo=twitter&logoColor=white&link=[https://twitter.com/ritikhere307](https://x.com/nothing1022here)"/>
