@@ -4,7 +4,7 @@
 
 </div>
 
-<h2 align="center">🛠️ Technology Stack <img width="30%" src="./images/uiacat.gif" alt="uia"/> <h2>
+<h2 align="center">🛠️ Technology Stack <img width="10%" src="./images/uiacat.gif" alt="uia"/> <h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
