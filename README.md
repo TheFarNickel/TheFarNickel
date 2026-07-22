@@ -60,7 +60,7 @@
 [![Redis](https://skillicons.dev/icons?i=github)](https://github.com)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com)
 </div>
 
 ---
