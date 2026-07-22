@@ -57,7 +57,7 @@
 
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
-[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
+[![Redis](https://skillicons.dev/icons?i=github)](https://github.com)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 
