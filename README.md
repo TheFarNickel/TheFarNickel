@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<img width="70%" src="./images/Vnf.gif" alt="Vietnam Flag"/>
+<img width="70%" src="./images/VNF.gif" alt="Vietnam Flag"/>
 
 <br/><br/>
 
