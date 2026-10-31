@@ -40,7 +40,9 @@
 - focus:
     - Discord Bots     
     - Zalo Bots        
-    - Automatic Cracking Bot
+    - Modify Apps
+    - AI readers
+    - Kind of bots
 
 
 ---
