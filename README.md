@@ -36,7 +36,8 @@
 
 - name:       "TheFarNickel"
 - location:   "Vietnam 🇻🇳"
-- role:       "Automation & Bot Developer"
+- role:       "Automation & App Developer"
+- best OS:    "Linux, Arch, Mint"
 - focus:
     - Discord Bots     
     - Zalo Bots        
