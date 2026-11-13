@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: '0 */3 * * *'
   workflow_dispatch:
   push:
     branches:
@@ -16,12 +16,14 @@ jobs:
     steps:
       - name: Generate contribution snake SVG
         uses: Platane/snk@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-                  dist/github-contribution-grid-snake.svg
-                  dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-                  dist/ocean.gif?color_snake=FFCD00&color_dots=#1a1a2e,#16213e,#0f3460,#533483,#7b2d8b&color_background=#000000
+          outputs: 
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=#FCD000&color_dots=#1a1a2e,#16213e,#0f3460,#533483,#7b2cbf&color_background=#0d1117
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
