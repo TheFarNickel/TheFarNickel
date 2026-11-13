@@ -1,15 +1,14 @@
-name: Generate Snake
+lname: Generate Snake
 
 on:
   schedule:
     - cron: '0 */3 * * *'
-    
   workflow_dispatch:
   push:
     branches:
       - main
 
-jobs: 
+jobs:
   generate-snake:
     runs-on: ubuntu-latest
     timeout-minutes: 10
@@ -21,7 +20,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: 
+          outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=#FCD000&color_dots=#1a1a2e,#16213e,#0f3460,#533483,#7b2cbf&color_background=#0d1117
