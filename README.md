@@ -68,6 +68,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheFarNickel&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
+</div>
+
+---
+
 ##  GitHub Stat
 
 <p align="center">
@@ -90,12 +98,36 @@
 
 ---
 
-##  Contribution Snake
+##  Contribution Snake, Pac-Man & 3D City
 
 <div align="center">
 
-<img alt="contribution snake" src="https://raw.githubusercontent.com/TheFarNickel/TheFarNickel/output/ocean.gif" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheFarNickel/TheFarNickel/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheFarNickel/TheFarNickel/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/TheFarNickel/TheFarNickel/output/ocean.gif" width="100%"/>
+</picture>
 
+<br/><br/>
+
+<img alt="ocean snake" src="https://raw.githubusercontent.com/TheFarNickel/TheFarNickel/output/ocean.gif" width="100%"/>
+
+<br/><br/>
+
+<img alt="pacman contribution" src="https://raw.githubusercontent.com/TheFarNickel/TheFarNickel/output/pacman-contribution-graph-dark.svg" width="100%"/>
+
+<br/><br/>
+
+<img alt="3d contribution" src="https://raw.githubusercontent.com/TheFarNickel/TheFarNickel/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 ---
